@@ -1,0 +1,5 @@
+img {
+  border-radius: 25px;
+  border: solid rgb(16, 39, 173) 2px;
+  box-shadow: 10px 10px 2px 1px rgba(8, 15, 116, 0.2);
+}

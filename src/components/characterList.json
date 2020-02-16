@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "A Silent Voice",
+    "image": "./character-images/aSilentVoice.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Children Who Chase Lost Voices",
+    "image": "./character-images/childrenWhoChaseLostVoices.png"
+  },
+  {
+    "id": 3,
+    "name": "Cowboy Bebop",
+    "image": "./character-images/cowboyBebop.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Garden Of Words",
+    "image": "./character-images/gardenOfWords.png"
+  },
+  {
+    "id": 5,
+    "name": "Kiki's Delivery Service",
+    "image": "./character-images/kikisDeliveryService.jpg"
+  },
+  {
+    "id": 6,
+    "name": "My Neighbor Totoro",
+    "image": "./character-images/myNeighborTotoro.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nausicaa and The Valley of The Wind",
+    "image": "./character-images/Nausicaa.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Paprika",
+    "image": "./character-images/paprika.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ponyo",
+    "image": "./character-images/Ponyo.png"
+  },
+  {
+    "id": 10,
+    "name": "Princess Mononoke",
+    "image": "./character-images/princessMononoke.png"
+  },
+  {
+    "id": 11,
+    "name": "Steamboy",
+    "image": "./character-images/steamboy.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Summer Wars",
+    "image": "./character-images/SummerWars.jpg"
+  },
+  {
+    "id": 13,
+    "name": "The Boy And The Beast",
+    "image": "./character-images/theBoyAndTheBeast.jpg"
+  },
+  {
+    "id": 14,
+    "name": "The Girl Who Lept Through Time",
+    "image": "./character-images/theGirlWhoLeptThroughTime.jpg"
+  },
+  {
+    "id": 15,
+    "name": "The Secret World Of Arrietty",
+    "image": "./character-images/theSecretWorldOfArrietty.png"
+  },
+  {
+    "id": 16,
+    "name": "Your Name",
+    "image": "./character-images/yourName.jpg"
+  }
+]
