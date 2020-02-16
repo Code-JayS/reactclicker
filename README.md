@@ -3,7 +3,7 @@ This is a React Memory Game
 Click on a card container only once without reapeating a container. 
 If you click on all the containers you win. 
 
-##[Play the game](https://agile-everglades-71734.herokuapp.com/)
+## [Play the game](https://agile-everglades-71734.herokuapp.com/)
 
 
 
